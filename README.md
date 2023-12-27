@@ -2,6 +2,8 @@
 
 Este script proporciona información sobre un dominio al realizar consultas DNS. Puede ser utilizado para obtener datos como direcciones IP asociadas, registros de servicio, servidores de correo, entre otros.
 
+![ㅤ](https://github.com/0so/DNS-Info-Explorer/assets/145970994/24e03860-70fd-40b3-8342-862898ecc8b4)
+
 ## Características
 
 - Consulta registros "A" para obtener direcciones IPv4 asociadas al dominio.
